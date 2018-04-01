@@ -1,5 +1,5 @@
 ## ガイド  
-https://spring.io/guides/gs/rest-service/#scratch  
+https://spring.io/guides/gs/rest-service  
 
 ## ビルド  
 ./gradlew build  
